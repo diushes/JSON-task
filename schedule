@@ -1,0 +1,99 @@
+{
+"weekly schedule":[
+  {
+  "day":"Monday"
+  "subjects":[
+    {
+    "name of subject":"calculus"
+    "duration":"8:30-10:00"
+    "teacher":"Tahir agai"
+    },
+    {
+    "name of subject":"Python"
+    "duration":"10:10-11:40"
+    "teacher":"Ruslan agai"
+    },
+    {
+     "name of subject":"ecology"
+     "duration":"13:20-14:50"
+     "teacher":""
+     }
+    ]
+    },
+    {
+  "day":"Tuesday"
+  "subjects":[
+    {
+    "name of subject":"physics"
+    "duration":"8:30-10:00"
+    "teacher":"Tahir agai"
+    },
+    {
+    "name of subject":"introduction to Engineering"
+    "duration":"10:10-11:40"
+    "teacher":"Burul Shambetova"
+    },
+    {
+     "name of subject":"russian language"
+     "duration":"13:20-14:50"
+     "teacher":"Muzurhan "
+     },
+     {
+     "name of subject":"turkish language"
+     "duration":"15:00-16:30"
+     "teacher":"Muzurhan "
+     }
+    ]
+    },
+        {
+  "day":"Wednesday"
+  "subjects":[
+    {
+    "name of subject":"calculus"
+    "duration":"8:30-10:00"
+    "teacher":"Tahir agai"
+    },
+    {
+    "name of subject":"python"
+    "duration":"10:10-11:40"
+    "teacher":"Ruslan agai"
+    },
+    {
+     "name of subject":"turkish language"
+     "duration":"13:20-14:50"
+     "teacher":" "
+     }
+    ]
+    },
+        {
+  "day":"Thursday"
+  "subjects":[
+    {
+    "name of subject":"physics"
+    "duration":"8:30-10:00"
+    "teacher":"Tahir agai"
+    },
+    {
+    "name of subject":"introduction to Engineering"
+    "duration":"10:10-11:40"
+    "teacher":"Burul Shambetova"
+    },
+    {
+     "name of subject":"russian language"
+     "duration":"13:20-14:50"
+     "teacher":"Muzurhan "
+     }
+    ]
+    },
+    {
+  "day":"Friday"
+  "subjects":[
+ 
+    {
+     "name of subject":"physical training"
+     "duration":"8:30-10:00"
+     "teacher":""
+     }
+    ]
+    }
+}
